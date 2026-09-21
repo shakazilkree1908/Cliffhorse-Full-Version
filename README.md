@@ -237,4 +237,4 @@ This repository serves as the official landing page for Cliffhorse. The software
 **Get the most recent version of Cliffhorse today!**
 
 ---
-**Last updated:** 2026-09-20 23:45:29 UTC
+**Last updated:** 2026-09-21 01:51:46 UTC
